@@ -4,7 +4,7 @@ Android widgets are one of the most powerful yet underutilized features in mobil
 
 # 📸 Preview
 
-> Add your widget screenshot here
+![alt text](https://github.com/orbitalsonic/Android-Widgets-Clock-Sample/blob/master/Screens/Preview-Widget.png?raw=true)
 
 ---
 
@@ -106,8 +106,9 @@ Defines metadata such as:
 # 📚 References
 
 ### 📝 Medium Article
-https://medium.com/@orbitalsonic/building-a-production-ready-android-clock-widget-complete-guide-0ab32bc5e2ae
+[Android Clock Widget (Complete Guide)](https://medium.com/@orbitalsonic/building-a-production-ready-android-clock-widget-complete-guide-0ab32bc5e2ae)
+
 
 ### 📖 Official Android Documentation
-https://developer.android.com/develop/ui/views/appwidgets
+[appwidgets](https://developer.android.com/develop/ui/views/appwidgets)
 
